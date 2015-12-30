@@ -2,4 +2,4 @@
 A crowdsourced new year resolution list by @abrain
 
 # The List
-## Buy a brand new tiger.
+### 1. Buy a brand new tiger.
